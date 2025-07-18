@@ -19,8 +19,8 @@ link API: https://www.themoviedb.org/documentation/api
 | Search Result   | `/search/:keyword` | Menampilkan hasil pencarian berdasarkan kata kunci |
 
 # Cara Menjalankan Secara Lokal
-Clone repository: git clone <repository-url>
-Masuk ke folder proyek: cd movie_sosa
-Install dependencies: npm install
-Jalankan aplikasi: npm start
-Akses di browser: http://localhost:3000
+1. Clone repository: git clone <repository-url>
+2. Masuk ke folder proyek: cd movie_sosa
+3. Install dependencies: npm install
+4. Jalankan aplikasi: npm start
+5. Akses di browser: http://localhost:3000
